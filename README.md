@@ -6,19 +6,20 @@
   Senior Software Engineer, Node.JS and Typescript programmer, Artist
 </h2> 
 
-I’m a Senior Software Engineer with a long experience in designing, implementing, and releasing successful web applications.  
+I’m a Senior Software Engineer with a long experience in **designing**, **implementing**, and **releasing** successful web applications.  
 
-I worked across a wide range of business domains, including small companies, well-known enterprise corporations, and startups, driving cross-functional teams to adopt best practices, optimize performances, and deliver innovative solutions that meet both user and business needs.  
+I worked across a wide range of business domains, including small companies, well-known enterprise corporations, and startups, driving cross-functional teams to adopt **best practices**, optimize performances, and deliver innovative solutions that meet both user and business needs.  
 
-Passionate about:
+I'm passionate about:
 
-- DevOps culture
-- Test-Driven Development (TDD), Extreme Programming
+- Software architectures and design
+- Test-Driven Development (TDD), Extreme Programming and Lean Software Development
 - Node.JS, Typescript, Cloud and Web technologies
+- DevOps culture
 
-I’m also a creative guy, and during my free time, I like painting graffiti and canvases 🎨, drawing ✏️, and taking pictures with my camera 📷.  
+I’m also a **creative** guy, and during my free time, I like painting graffiti and canvases 🎨, drawing ✏️, and taking [pictures](https://www.flickr.com/photos/ubrains/) with my camera 📷.  
 
-I work 4 days per week because I really believe in a strong life/work balance.
+I work **4 days** per week because I really believe in a strong life/work balance.
 
 ### Get in touch
 
