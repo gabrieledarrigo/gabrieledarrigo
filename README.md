@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hello, I'm Gabriele D'Arrigo
+  Hello 👋, I'm Gabriele D'Arrigo
 </h3>
 
 <h2 align="center">
@@ -7,14 +7,11 @@
 </h2> 
 
 I’m a Senior Software Engineer with a long experience in **designing**, **implementing**, and **releasing** successful web applications.  
-
-I worked across a wide range of business domains, including small companies, well-known enterprise corporations, and startups, driving cross-functional teams to adopt **best practices**, optimize performances, and deliver innovative solutions that meet both user and business needs.  
-
 I'm passionate about:
 
 - Software architectures and design
 - Test-Driven Development (TDD), Extreme Programming and Lean Software Development
-- Node.JS, Typescript, Cloud and Web technologies
+- Node.JS, Typescript, Rust, Cloud and Web technologies
 - DevOps culture
 
 I’m also a **creative** guy, and during my free time, I like painting graffiti and canvases 🎨, drawing ✏️, and taking [pictures](https://www.flickr.com/photos/ubrains/) with my camera 📷.  
