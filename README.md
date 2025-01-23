@@ -6,7 +6,7 @@
   Senior Software Engineer, Node.JS and Typescript programmer, Artist
 </h2> 
 
-I’m a Senior Software Engineer with a long experience in **designing**, **implementing**, and **releasing** successful web applications.  
+I’m a Senior Software Engineer with extensive experience in **designing**, **implementing**, and **releasing** successful web applications.  
 I'm passionate about:
 
 - Software architectures and design
