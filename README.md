@@ -3,20 +3,22 @@
 </h3>
 
 <h2 align="center">
-  Senior Software Engineer, Node.JS and Typescript programmer, Artist
+  Senior Software Engineer, Node.JS and Typescript programmer
 </h2> 
 
-I’m a Senior Software Engineer with extensive experience in **designing**, **implementing**, and **releasing** successful web applications.  
+<h3 align="center">
+  I help companies deliver high-quality software 🚀
+</h3>
+
+I’m a Senior Software Engineer with extensive experience in **designing**, **implementing**, and **releasing** successful applications.  
 I'm passionate about:
 
-- Software architectures and design
-- Test-Driven Development (TDD), Extreme Programming and Lean Software Development
-- Node.JS, Typescript, Rust, Cloud and Web technologies
+- Node.js, TypeScript, Rust, Cloud, and Web technologies
+- Lean Software Development
+- Software design
 - DevOps culture
 
 I’m also a **creative** guy, and during my free time, I like painting graffiti and canvases 🎨, drawing ✏️, and taking [pictures](https://www.flickr.com/photos/ubrains/) with my camera 📷.  
-
-I work **4 days** per week because I really believe in a strong life/work balance.
 
 ### Get in touch
 
